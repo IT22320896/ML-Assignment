@@ -1,0 +1,28 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Model Explainability
+shap==0.45.1
+
+# Imbalance Handling
+imbalanced-learn==0.12.2
+
+# Hyperparameter Optimization (optional but recommended)
+optuna==3.6.1
+
+# Jupyter
+notebook==7.2.0
+ipykernel==6.29.4
+
+# Utilities
+scipy==1.13.1
+joblib==1.4.2
