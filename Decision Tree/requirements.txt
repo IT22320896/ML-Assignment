@@ -1,0 +1,27 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Model Explainability
+shap==0.45.1
+
+# Imbalance Handling (if needed)
+imbalanced-learn==0.12.2
+
+# Jupyter
+notebook==7.2.0
+ipykernel==6.29.4
+
+# Utilities
+scipy==1.13.1
+joblib==1.4.2
+
+# Tree Visualization
+graphviz==0.20.3
